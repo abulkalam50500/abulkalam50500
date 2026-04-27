@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidWhtbm9qZ3h4ZzR6Z3h4ZzR6Z3h4ZzR6Z3h4ZzR6Z3h4ZzR6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="50%" />
 </p>
-### 👨‍💻 About Me
+
 ### 👨‍💻 About Me
 I am a results-driven **Software Engineer** based in Dhaka, with a strong focus on building scalable and high-performance web applications. I specialize in the **PHP/Laravel** ecosystem and modern frontend frameworks like **Vue.js and React**.
 
