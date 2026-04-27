@@ -1,8 +1,9 @@
 # Hi there, I'm Md. Abul Kalam! 👋
 ## Full Stack Web Developer | Director at ITSOFT
 
-![Header Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Abul%20Kalam&fontSize=70)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=3b82f6&height=200&section=header&text=Md.%20Abul%20Kalam&fontSize=70&animation=fadeIn" alt="Header" />
+</p>
 ### 👨‍💻 About Me
 I'm a passionate Software Engineer from Dhaka, specializing in **PHP, Laravel, and Vue.js**. Currently, I'm leading **ITSOFT** and building ultra-modern web applications for medical and industrial sectors.
 
